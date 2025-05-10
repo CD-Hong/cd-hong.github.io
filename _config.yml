@@ -27,8 +27,7 @@ author:
   bio              : "Hi! My Korean first name is 창덕 (Chang-Deok), but I go by CD. I work at the Bank of Korea and am currently studying at Seoul National University."
   #location         : "Seoul, S.Korea"
   #employer         : "Seoul National University"
-  Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites
-  This is the front page of a website that is powered by the Academic uri              : # URL
+  uri              : # URL
   email            : "cd.hong@icloud.com" 
 
   # Academic websites
