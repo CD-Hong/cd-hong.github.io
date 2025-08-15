@@ -14,8 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 
+{% endfor %}
+
+
 ## Work in Progress
 
-1. Mutual Funds and Capital Flows, with Jaewon Choi, Sebastiao Oliveira, and Jay Rafi.
-
-{% endfor %}
+1. **Mutual Funds and Capital Flows**, with Jaewon Choi, Sebastiao Oliveira, and Jay Rafi.
