@@ -39,3 +39,17 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.center-avatar {
+  display: block;
+  margin: 2rem auto;   /* 가운데 정렬 */
+  width: 220px;        /* 필요 시 조절 */
+  height: 220px;       /* 필요 시 조절 */
+  border-radius: 50%;  /* 원형 */
+  object-fit: cover;   /* 얼굴 비율 유지 */
+  box-shadow: 0 6px 20px rgba(0,0,0,.12); /* 옵션 */
+}
+
+@media (max-width: 480px) {
+  .center-avatar { width: 160px; height: 160px; }
+}

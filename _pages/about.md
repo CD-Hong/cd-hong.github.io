@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="{{ "/images/bio-photo.jpg" | prepend: base_path }}" alt="Profile picture">
+<img src="{{ '/images/big-photo.jpg' | relative_url }}" alt="CD Hong" class="center-avatar" width="240" height="240">
 
 I am a second-year M.A. student in the Department of Economics at Seoul National University. My research interests include international finance, financial intermediation, and their interaction with the macroeconomy.
 
