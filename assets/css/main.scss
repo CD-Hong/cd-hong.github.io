@@ -42,9 +42,9 @@
 
 .center-avatar {
   display: block;
-  margin: 2rem auto;   /* 가운데 정렬 */
-  width: 120px;        /* 필요 시 조절 */
-  height: 120px;       /* 필요 시 조절 */
+  margin: 0rem auto 2rem auto;   /* 가운데 정렬 */
+  width: 160px;        /* 필요 시 조절 */
+  height: 160px;       /* 필요 시 조절 */
   border-radius: 50%;  /* 원형 */
   object-fit: cover;   /* 얼굴 비율 유지 */
   box-shadow: 0 6px 20px rgba(0,0,0,.12); /* 옵션 */
