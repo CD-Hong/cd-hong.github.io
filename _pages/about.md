@@ -13,7 +13,9 @@ I am a second-year M.A. student in the Department of Economics at [Seoul Nationa
 
 Prior to graduate school, I was a full-time junior economist and portfolio manager at the [Bank of Korea](https://www.bok.or.kr/eng/).
 
-My Korean first name is 창덕 (Chang-Deok), but I go by CD. For more information, please see my [CV](https://cd-hong.github.io/cv/). <br>
+For more information, please see my [CV](https://cd-hong.github.io/cv/).
+
+My Korean first name is 창덕 (Chang-Deok), but I go by CD. Please feel free to contact me. <br>
 Linkedin:
   <a href="https://www.linkedin.com/in/cd-hong" target="_blank" rel="noopener">
     <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>cd-hong
