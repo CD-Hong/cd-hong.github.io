@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 {% if site.author.googlescholar %}
@@ -23,4 +23,4 @@ author_profile: true
 ---
 ## Research Assistant
 
-1. **Natural Disasters and Municipal Bonds**, by Kyung Auh, Jun and Choi, Jaewon and Deryugina, Tatyana and Park, Tim.
+1. **Natural Disasters and Municipal Bonds**, by Junkyung Auh, Jaewon Choi, Tatyana Deryugina, and Tim Park.
