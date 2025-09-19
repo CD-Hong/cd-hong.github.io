@@ -9,9 +9,11 @@ redirect_from:
 
 <img src="{{ "/images/bio-photo.jpg" | prepend: base_path }}" alt="CD Hong" class="center-avatar" width="160" height="160">
 
-I am a second-year M.A. student in the Department of Economics at [Seoul National University](https://en.snu.ac.kr/index.html). My research interests include international finance, financial intermediation, and their interaction with the macroeconomy. <br>
+I am a second-year M.A. student in Economics at [Seoul National University](https://en.snu.ac.kr/index.html), advised by and working as a research assistant for Professor Jaewon Choi.
 
-Prior to graduate school, I was a full-time junior economist and portfolio manager at the [Bank of Korea](https://www.bok.or.kr/eng/).
+My research interests include international finance, financial intermediation, and their interaction with the macroeconomy.
+
+Before graduate school, I was a junior economist and portfolio manager at the [Bank of Korea](https://www.bok.or.kr/eng/). I managed a USD 30 billion portfolio of South Korea's foreign reserves, primarily comprising US Agency MBS, Treasury bonds, and futures.
 
 For more information, please see my [CV](https://cd-hong.github.io/cv/).
 
