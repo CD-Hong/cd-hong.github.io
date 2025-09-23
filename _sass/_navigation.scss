@@ -179,14 +179,12 @@
 
   a {
     font-family: "Noto Sans KR", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
-    font-size: 1.05rem;   /* 16px 기준이면 약 16.8px */
-    font-weight: 600;     /* 필요시 조정 */
-
+    color: #6b7280; //$masthead-link-color;
+    text-decoration: underline; // none;
+    
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
-    text-decoration: none;
 
     &:hover {
       color: $masthead-link-color-hover;

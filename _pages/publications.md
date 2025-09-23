@@ -1,11 +1,14 @@
 ---
 layout: archive
-title: "Publications"
+title: false
 permalink: /publications/
 author_profile: false
 ---
 
+## Publications
+
 ---
+
 ## Work in Progress
 
 1. **Mutual Funds and Capital Flows**, with Jaewon Choi, Sebastiao Oliveira, and Jay Rafi.
