@@ -5,11 +5,12 @@ permalink: /publications/
 author_profile: false
 ---
 
+---
 ## Work in Progress
 
 1. **Mutual Funds and Capital Flows**, with Jaewon Choi, Sebastiao Oliveira, and Jay Rafi.
 
-2. **Do Private Bankers Add Values?**, (solo-authored)
+2. **Do Private Bankers Add Values?** (solo-authored).
 
 ---
 

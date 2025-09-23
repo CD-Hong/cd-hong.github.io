@@ -7,6 +7,17 @@ redirect_from:
   - /resume
 ---
 
-You can download a PDF copy of my CV [here](/files/CV/CV_cd_hong.pdf).
+## Curriculum Vitae
 
-<iframe src="/files/CV/CV_cd_hong.pdf" width="90%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+You can download a PDF copy of my CV [**here**](/files/CV/CV_cd_hong.pdf).
+
+---
+
+### Preview
+
+<iframe 
+    src="/files/CV/CV_cd_hong.pdf" 
+    width="100%" 
+    height="600" 
+    style="border:none;">
+</iframe>
