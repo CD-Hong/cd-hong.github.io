@@ -9,7 +9,7 @@ author_profile: false
 
 ---
 
-# Work in Progress
+## Work in Progress
 
 1. **Mutual Funds and Capital Flows**, with Jaewon Choi, Sebastiao Oliveira, and Jay Rafi.
 
@@ -17,13 +17,13 @@ author_profile: false
 
 ---
 
-# Research Assistant
+## Research Assistant
 
 1. [**Natural Disasters and Municipal Bonds**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4171457), by Junkyung Auh, Jaewon Choi, Tatyana Deryugina, and Tim Park.
 
 ---
 
-# Pre-graduate (BOK Policy Papers; in Korean)
+## Pre-graduate (BOK Policy Papers; in Korean)
 
 1. [**Changes in Incheon’s Industrial Structure and Implications**](https://www.bok.or.kr/portal/bbs/P0000800/view.do?nttId=10081259&searchBbsSeCd=z19&searchCnd=1&searchKwd=산업구조&date=5&sdate=2023-02-06&edate=2024-08-14&sort=1&pageUnit=10&depth=201379&pageIndex=1&programType=rgHqtData&menuNo=201523&oldMenuNo=201379), with Eunkyung Lee. *Incheon Branch, Bank of Korea*, 2023.
 
