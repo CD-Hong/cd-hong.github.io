@@ -180,15 +180,15 @@
   a {
     font-family: "Noto Sans KR", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
     font-size: 0.9rem;
-    color: #06402b; //$masthead-link-color;
     
     text-decoration: none;
+    color: $masthead-link-color;
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: #06402b; //$masthead-link-color-hover;
     }
   }
 
