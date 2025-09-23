@@ -179,9 +179,10 @@
 
   a {
     font-family: "Noto Sans KR", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
-    color: #6b7280; //$masthead-link-color;
-    text-decoration: underline; // none;
+    font-size: 0.9rem;
+    color: #06402b; //$masthead-link-color;
     
+    text-decoration: none;
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
