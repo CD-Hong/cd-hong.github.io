@@ -10,9 +10,8 @@ redirect_from:
 You can download a PDF copy of my CV [**here**](/files/CV/CV_cd_hong.pdf).
 
 ---
-
-## Preview
-
+# Preview
+<br>
 <iframe 
     src="/files/CV/CV_cd_hong.pdf" 
     width="100%" 
