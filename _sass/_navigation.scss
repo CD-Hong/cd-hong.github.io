@@ -271,7 +271,7 @@
       font-size: $type-size-5;
 
       &:hover {
-        color: $masthead-link-color-hover;
+        color: #06402b; //$masthead-link-color-hover;
         background: mix(#fff, $primary-color, 75%);
       }
     }

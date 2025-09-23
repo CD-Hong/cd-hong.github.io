@@ -1,19 +1,17 @@
 ---
 layout: archive
-title: 
+title: Curriculum Vitae
 permalink: /cv/
 author_profile: false
 redirect_from:
   - /resume
 ---
 
-## Curriculum Vitae
-
 You can download a PDF copy of my CV [**here**](/files/CV/CV_cd_hong.pdf).
 
 ---
 
-### Preview
+## Preview
 
 <iframe 
     src="/files/CV/CV_cd_hong.pdf" 
