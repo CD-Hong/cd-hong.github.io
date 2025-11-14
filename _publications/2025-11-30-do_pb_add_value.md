@@ -1,7 +1,7 @@
 ---
 title: "Do Private Bankers Add Value?"
 collection: publications
-permalink: /publication/2025-11-30-do-pb-add-value
+permalink: /publications/2025-11-30-do-pb-add-value
 excerpt: 
 date: 2025-11-30
 venue:
