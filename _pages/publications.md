@@ -15,7 +15,11 @@ author_profile: false
 
 2. [**Do Private Bankers Add Value?**](https://www.dropbox.com/scl/fi/ysmdddfzbixk7pic3ivnv/Paper_Do_PB_Add_Value_V251106.pdf?rlkey=saw1dpjbrmhf20dii5tqwyqp9&st=macybxal&dl=0), solo-authored.
 
-Contrary to the conventional view that financial experts often exploit retail investors, I find that private bankers reduce clients’ disposition effect by 24% and guide them toward lower-fee products, yielding a benefit of about 8bps. These advantages disappear when bankers are about to be reassigned or retire, indicating that value creation hinges on incentive compatibility and the expected continuation of the client–banker relationship.
+	<div class="pl-4 small">
+		Contrary to the conventional view that financial experts often exploit retail investors, I find that private bankers reduce clients’ disposition effect by 24% and guide them toward lower-fee products, yielding a benefit of about 8bps. These advantages disappear when bankers are about to be reassigned or retire, indicating that value creation hinges on incentive compatibility and the expected continuation of the client–banker relationship.
+	</div>
+
+
 
 ---
 
