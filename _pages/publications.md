@@ -14,12 +14,10 @@ author_profile: false
 1. **Do Private Bankers Add Value?**, with Syngjoo Choi, Chamna Yoon, and Jaewon Choi.
 
 	<div class="pl-4 small">
-		Using novel data from South Korea’s largest bank, we examine whether private bankers create measurable value for retail investors. Clients advised by private bankers exhibit a 24\% lower disposition effect and, among elderly clients, face fee burdens reduced by roughly 8 bps. These benefits disappear when bankers are about to be reassigned or retire, indicating that value creation hinges on incentive compatibility and the expected continuation of the client–banker relationship.
-	</div>
+		Using novel data from South Korea’s largest bank, we examine whether private bankers create measurable value for retail investors. Clients advised by private bankers exhibit a 24\% lower disposition effect and, among elderly clients, face fee burdens reduced by roughly 8 bps. These benefits disappear when bankers are about to be reassigned or retire, indicating that value creation hinges on incentive compatibility and the expected continuation of the client–banker relationship.  <br><br>
 
-	<div class="pl-4 small">
-		My solo-authored working-sample version: [link](https://www.dropbox.com/scl/fi/ysmdddfzbixk7pic3ivnv/Paper_Do_PB_Add_Value_V251106.pdf?rlkey=saw1dpjbrmhf20dii5tqwyqp9&st=macybxal&dl=0)
-	</div>
+		My solo-authored working-sample version: <a href="https://www.dropbox.com/scl/fi/ysmdddfzbixk7pic3ivnv/Paper_Do_PB_Add_Value_V251106.pdf?rlkey=saw1dpjbrmhf20dii5tqwyqp9&st=macybxal&dl=0">link</a>
+	<div>
 
 ---
 
