@@ -11,15 +11,15 @@ author_profile: false
 
 ## Work in Progress
 
-1. **Mutual Funds and Capital Flows**, with Jaewon Choi, Sebastiao Oliveira, and Jay Rafi.
-
-2. [**Do Private Bankers Add Value?**](https://www.dropbox.com/scl/fi/ysmdddfzbixk7pic3ivnv/Paper_Do_PB_Add_Value_V251106.pdf?rlkey=saw1dpjbrmhf20dii5tqwyqp9&st=macybxal&dl=0), solo-authored.
+1. **Do Private Bankers Add Value?**, with Syngjoo Choi, Chamna Yoon, and Jaewon Choi.
 
 	<div class="pl-4 small">
-		Contrary to the conventional view that financial experts often exploit retail investors, I find that private bankers reduce clients’ disposition effect by 24% and guide them toward lower-fee products, yielding a benefit of about 8bps. These advantages disappear when bankers are about to be reassigned or retire, indicating that value creation hinges on incentive compatibility and the expected continuation of the client–banker relationship.
+		Using novel data from South Korea’s largest bank, we examine whether private bankers create measurable value for retail investors. Clients advised by private bankers exhibit a 24\% lower disposition effect and, among elderly clients, face fee burdens reduced by roughly 8 bps. These benefits disappear when bankers are about to be reassigned or retire, indicating that value creation hinges on incentive compatibility and the expected continuation of the client–banker relationship.
 	</div>
 
-
+	<div class="pl-4 small">
+		My solo-authored working-sample version: [link](https://www.dropbox.com/scl/fi/ysmdddfzbixk7pic3ivnv/Paper_Do_PB_Add_Value_V251106.pdf?rlkey=saw1dpjbrmhf20dii5tqwyqp9&st=macybxal&dl=0)
+	</div>
 
 ---
 
