@@ -10,6 +10,10 @@
  *
 */
 
+
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Source+Serif+4:opsz,wght@8..60,300..900&display=swap");
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -53,8 +57,11 @@
   .center-avatar { width: 160px; height: 160px; }
 }
 
-
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
+/* Typography */
 body {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: "Source Serif 4", "Noto Sans KR", serif;
+}
+h1, h2, h3, h4, h5, h6,
+.site-title, .masthead, nav, button, .btn {
+  font-family: "Inter", "Noto Sans KR", sans-serif;
 }
