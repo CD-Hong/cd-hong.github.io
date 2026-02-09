@@ -4,3 +4,9 @@ projects:
     # thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
     url: "projects/2026_nudge_ELS_sales.html"
     selected: y # or 'n'
+
+  - title: "Do Private Bankers Add Value?"
+    # subtitle: ""
+    # thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
+    url: "projects/2026_private_banker_value.html"
+    selected: y # or 'n'

@@ -111,6 +111,13 @@ h4 {
     text-decoration: none;
     line-height: 6.5rem;
     color: #222; }
+  
+  .navbar-link.bold{
+  font-size: 15px;
+  font-weight: 800;
+  letter-spacing: .25rem;
+  }
+
   .navbar-link.active {
     color: #33C3F0; }
   .has-docked-nav .navbar {
@@ -200,8 +207,11 @@ h4 {
   border-radius: 50%;    /* 둥글게 */
   object-fit: cover;     /* 찌그러짐 방지 */
 }
-.navbar-brand{
-  font-size: 16px;      /* ← 여기서 크기 조절 */
-  font-weight: 700;     /* bold */
-  letter-spacing: 0.35rem;
+  
+.cv-subsub {
+  font-size: 0.85em;
+  color: rgba(0,0,0,0.55);
+  font-style: italic;
+  display: block;
+  margin-top: 2px;
 }
