@@ -1,7 +1,7 @@
 papers:
 
-  - title: "Community Notes Moderate Engagement With and Diffusion of False Information Online"
-    authors: "Isaac Slaughter, Axel Peytavin, Johan Ugander, <b>Martin Saveski</b>"
-    venue: "Arxiv'25: arXiv preprint. 2025."
-    paper_pdf: "/assets/publications/2025_cn_causal_effects/paper.pdf"
-    selected: y # or 'n'
+  # - title: "Community Notes Moderate Engagement With and Diffusion of False Information Online"
+  #   authors: "Isaac Slaughter, Axel Peytavin, Johan Ugander, <b>Martin Saveski</b>"
+  #   venue: "Arxiv'25: arXiv preprint. 2025."
+  #   paper_pdf: "/assets/publications/2025_cn_causal_effects/paper.pdf"
+  #   selected: y # or 'n'

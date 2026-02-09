@@ -190,13 +190,18 @@ h4 {
   .popover-link:hover,
   .popover-item:first-child .popover-link:hover:after {
     border-bottom-color: #33C3F0; }
+}
 
-  .center-avatar{
-    display: block;
-    margin: 0 auto;        /* 가운데 */
-    width: 160px;          /* 사이즈 */
-    height: 160px;
-    border-radius: 50%;    /* 둥글게 */
-    object-fit: cover;     /* 찌그러짐 방지 */
-  }
+.center-avatar{
+  display: block;
+  margin: 0 auto;        /* 가운데 */
+  width: 160px;          /* 사이즈 */
+  height: 160px;
+  border-radius: 50%;    /* 둥글게 */
+  object-fit: cover;     /* 찌그러짐 방지 */
+}
+.navbar-brand{
+  font-size: 16px;      /* ← 여기서 크기 조절 */
+  font-weight: 700;     /* bold */
+  letter-spacing: 0.35rem;
 }

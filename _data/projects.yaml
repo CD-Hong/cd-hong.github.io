@@ -1,6 +1,6 @@
 projects:
-  - title: "Detecting Network Effects"
-    subtitle: "Randomizing Over Randomized Experiments"
-    thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
-    url: "projects/2016_network-ab-testing.html"
+  - title: "Nudge Interventions on High-Risk Financial Product Sales"
+    # subtitle: ""
+    # thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
+    url: "projects/2026_nudge_ELS_sales.html"
     selected: y # or 'n'
