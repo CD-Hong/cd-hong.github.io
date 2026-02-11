@@ -7,6 +7,6 @@ projects:
 
   - title: "Do Private Bankers Add Value?"
     # subtitle: ""
-    # thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
+    thumbnail: "assets/projects/2026_private_banker_value/thumbnail.png"
     url: "projects/2026_private_banker_value.html"
     selected: n
